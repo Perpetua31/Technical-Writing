@@ -12,3 +12,6 @@ A condensed 2-page summary of website development concepts, rewritten from a 16-
 
 Op-Ed: NYC Subway Safety: 
 Authored a witty, persuasive piece exposing NYC subway platform risks. Highlighted flimsy 4-foot barriers vs. full-height doors, using personal anecdotes and research to urge real safety upgrades.
+
+
+And more....
